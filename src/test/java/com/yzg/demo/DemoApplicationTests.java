@@ -13,6 +13,6 @@ class DemoApplicationTests {
 	void contextLoads1() {
 	}
 	@Test
-	void contextLoads3() {
+	void contextLoayuids3() {
 	}
 }
