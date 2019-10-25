@@ -19,5 +19,4 @@ public class TestController {
         return "Hello World2 !";
     }
 	
-	// idea 更新 代码测试
 }
